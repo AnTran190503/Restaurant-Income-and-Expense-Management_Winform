@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPhieuChi" targetNamespace="http://tempuri.org/dsPhieuChi.xsd" xmlns:mstns="http://tempuri.org/dsPhieuChi.xsd" xmlns="http://tempuri.org/dsPhieuChi.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPhieuChi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsPhieuChi" msprop:Generator_UserDSName="dsPhieuChi">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PhieuChi" msprop:Generator_TableClassName="PhieuChiDataTable" msprop:Generator_TableVarName="tablePhieuChi" msprop:Generator_TablePropName="PhieuChi" msprop:Generator_RowDeletingName="PhieuChiRowDeleting" msprop:Generator_RowChangingName="PhieuChiRowChanging" msprop:Generator_RowEvHandlerName="PhieuChiRowChangeEventHandler" msprop:Generator_RowDeletedName="PhieuChiRowDeleted" msprop:Generator_UserTableName="PhieuChi" msprop:Generator_RowChangedName="PhieuChiRowChanged" msprop:Generator_RowEvArgName="PhieuChiRowChangeEvent" msprop:Generator_RowClassName="PhieuChiRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PhieuChiID" msdata:Caption="PhieuThuID" msprop:Generator_ColumnVarNameInTable="columnPhieuChiID" msprop:Generator_ColumnPropNameInRow="PhieuChiID" msprop:Generator_ColumnPropNameInTable="PhieuChiIDColumn" msprop:Generator_UserColumnName="PhieuChiID" type="xs:int" minOccurs="0" />
+              <xs:element name="TenQuy" msprop:Generator_ColumnVarNameInTable="columnTenQuy" msprop:Generator_ColumnPropNameInRow="TenQuy" msprop:Generator_ColumnPropNameInTable="TenQuyColumn" msprop:Generator_UserColumnName="TenQuy" type="xs:string" minOccurs="0" />
+              <xs:element name="TenNhanVien" msprop:Generator_ColumnVarNameInTable="columnTenNhanVien" msprop:Generator_ColumnPropNameInRow="TenNhanVien" msprop:Generator_ColumnPropNameInTable="TenNhanVienColumn" msprop:Generator_UserColumnName="TenNhanVien" type="xs:string" minOccurs="0" />
+              <xs:element name="SoTien" msprop:Generator_ColumnVarNameInTable="columnSoTien" msprop:Generator_ColumnPropNameInRow="SoTien" msprop:Generator_ColumnPropNameInTable="SoTienColumn" msprop:Generator_UserColumnName="SoTien" type="xs:decimal" minOccurs="0" />
+              <xs:element name="LyDo" msprop:Generator_ColumnVarNameInTable="columnLyDo" msprop:Generator_ColumnPropNameInRow="LyDo" msprop:Generator_ColumnPropNameInTable="LyDoColumn" msprop:Generator_UserColumnName="LyDo" type="xs:string" minOccurs="0" />
+              <xs:element name="NgayChi" msdata:Caption="NgayThu" msprop:Generator_ColumnVarNameInTable="columnNgayChi" msprop:Generator_ColumnPropNameInRow="NgayChi" msprop:Generator_ColumnPropNameInTable="NgayChiColumn" msprop:Generator_UserColumnName="NgayChi" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

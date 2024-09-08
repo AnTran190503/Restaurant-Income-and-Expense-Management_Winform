@@ -1,0 +1,125 @@
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\bin\Debug\GUI.exe.config
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\bin\Debug\GUI.exe
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\bin\Debug\GUI.pdb
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\bin\Debug\BLL.dll
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\bin\Debug\DTO.dll
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\bin\Debug\DAL.dll
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\bin\Debug\BLL.pdb
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\bin\Debug\DTO.pdb
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\bin\Debug\DAL.pdb
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.exe
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.pdb
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.frmMain.resources
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiQuy.resources
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiNhanVien.resources
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiChi.resources
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiLoaiThuChi.resources
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiThu.resources
+C:\Users\NITRO 5\Desktop\WinForm\QL_TCQA\GUI\obj\Debug\GUI.frmThongKe.resources
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.frmMain.resources
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiChi.resources
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiLoaiThuChi.resources
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiNhanVien.resources
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiQuy.resources
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiThu.resources
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.frmThongKe.resources
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.exe
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.pdb
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\bin\Debug\GUI.exe.config
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\bin\Debug\GUI.exe
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\bin\Debug\GUI.pdb
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\bin\Debug\BLL.dll
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\bin\Debug\DTO.dll
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\bin\Debug\DAL.dll
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\bin\Debug\BLL.pdb
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\bin\Debug\DTO.pdb
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\bin\Debug\DAL.pdb
+C:\Users\PC\Documents\Zalo Received Files\QL_TCQA\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.frmMain.resources
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.exe
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.pdb
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\GUI.exe.config
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\GUI.exe
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\GUI.pdb
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.frmDangNhap.resources
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiQuy.resources
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiNhanVien.resources
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiThu.resources
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.FormQuanLiChi.resources
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.FormThongKE.resources
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\stdole.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.frmBaoCaoPhieuThu.resources
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\NITRO 5\Desktop\đồ án winform\QL_TCQA\GUI\obj\Debug\GUI.frmBaoCaoPhieuChi.resources
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\GUI.exe.config
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\GUI.exe
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\GUI.pdb
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\stdole.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.FormQuanLiChi.resources
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.FormThongKE.resources
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.frmBaoCaoPhieuChi.resources
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.frmBaoCaoPhieuThu.resources
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.frmDangNhap.resources
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.frmMain.resources
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiNhanVien.resources
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiQuy.resources
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.frmQuanLiThu.resources
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.exe
+C:\Users\NITRO 5\Desktop\TranBaoAn_NguyenQuocAnh_TranNguyenPhiHung_QL_ThuChiQuanAn\QL_TCQA\GUI\obj\Debug\GUI.pdb
